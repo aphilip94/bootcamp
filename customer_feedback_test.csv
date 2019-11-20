@@ -1,0 +1,201 @@
+Customer ID,Tenure,Completed tutorial,Theme,TicketCount,Continent,Country-Region,Subscription Type,Role in Org,Company Size,browser,tablet,mobile,FirstName,LastName,Email,Rating
+10043321,8.0,no,navigation,5,Europe,France,Premier,consumer,< 5000,True,False,False,Bruce,Navarro,bruce31@adventure-works.com,Low
+10042861,4.0,no,reliability,5,Europe,UK,Premier,consumer,< 5000,True,False,False,Isaac,Howard,isaac11@adventure-works.com,Low
+10044877,6.0,yes,price,7,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Jodi,Chavez,jodi15@adventure-works.com,Low
+10032088,16.0,yes,price,2,Europe,UK,Premier,consumer,< 5000,True,False,True,Melvin,Rai,melvin16@adventure-works.com,High
+10040824,1.0,no,speed,9,Europe,France,Premier,consumer,< 5000,True,False,False,Kari,Carlson,kari39@adventure-works.com,Low
+10031074,2.0,yes,price,8,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Austin,Brown,austin43@adventure-works.com,High
+10016003,23.0,yes,reliability,2,Europe,UK,Basic,consumer,5000 - 50000,True,True,False,Roger,Jai,roger38@adventure-works.com,High
+10044750,25.0,yes,features,8,Europe,UK,Premier,consumer,< 5000,True,False,True,Patrick,Reed,patrick25@adventure-works.com,Low
+10037104,0.0,no,security,0,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Brianna,Morgan,brianna30@adventure-works.com,High
+10040541,18.0,no,price,9,Europe,UK,Basic,consumer,5000 - 50000,True,False,False,Madison,Wood,madison37@adventure-works.com,Low
+10040764,8.0,no,services,6,Europe,UK,Premier,administrator,5000 - 50000,False,False,True,Michael,Miller,michael38@adventure-works.com,Low
+10044572,59.0,no,security,5,Europe,Germany,Premier,consumer,5000 - 50000,True,False,False,Paige,Alexander,paige18@adventure-works.com,Low
+10031598,27.0,yes,features,4,Europe,France,Premier,consumer,< 5000,True,False,True,Kristin,Yuan,kristin9@adventure-works.com,High
+10045079,23.0,no,services,5,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Mariah,Kelly,mariah2@adventure-works.com,Low
+10010690,29.0,no,speed,0,Europe,France,Premier,publisher,< 5000,True,False,False,Samantha,Thomas,samantha12@adventure-works.com,High
+10009071,3.0,yes,features,0,Europe,UK,Premier,publisher,5000 - 50000,True,False,False,Sean,Campbell,sean38@adventure-works.com,High
+10013111,20.0,yes,speed,1,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Cameron,Long,cameron4@adventure-works.com,High
+10030412,3.0,yes,features,1,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Natalie,Nelson,natalie52@adventure-works.com,High
+10042523,25.0,yes,reliability,6,Europe,UK,Premier,consumer,< 5000,True,False,False,Mathew,Vazquez,mathew10@adventure-works.com,Low
+10039959,3.0,yes,price,5,Europe,UK,Premier,publisher,< 5000,True,False,True,Jack,Hayes,jack23@adventure-works.com,Low
+10036270,21.0,yes,price,4,Europe,UK,Premier,administrator,< 5000,True,False,False,Erick,Prasad,erick9@adventure-works.com,High
+10042751,3.0,no,navigation,9,Europe,UK,Premier,consumer,< 5000,False,False,True,Grace,Barnes,grace50@adventure-works.com,Low
+10018136,22.0,no,features,0,Europe,UK,Premier,consumer,5000 - 50000,True,True,False,Caroline,Bryant,caroline19@adventure-works.com,High
+10044179,60.0,no,reliability,5,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Jaclyn,Sun,jaclyn14@adventure-works.com,Low
+10039233,39.0,no,usability,1,Europe,Spain,Premier,publisher,< 5000,True,False,False,Luke,Adams,luke46@adventure-works.com,High
+10022241,0.0,yes,speed,4,Europe,France,Premier,consumer,< 5000,True,True,False,Elizabeth,Garcia,elizabeth20@adventure-works.com,High
+10005655,4.0,yes,features,1,Europe,UK,Premier,publisher,> 50000,True,False,True,Destiny,Taylor,destiny9@adventure-works.com,High
+10042266,0.0,yes,price,9,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Adrienne,Sanz,adrienne16@adventure-works.com,Low
+10008398,42.0,yes,speed,6,Europe,France,Premier,publisher,< 5000,True,False,False,Dylan,Gonzales,dylan16@adventure-works.com,High
+10042462,13.0,yes,reliability,6,Europe,UK,Premier,consumer,> 50000,False,False,True,Jordyn,Simmons,jordyn15@adventure-works.com,Low
+10005063,7.0,yes,features,1,Europe,France,Basic,publisher,< 5000,True,False,False,Francisco,Kapoor,francisco2@adventure-works.com,High
+10042690,49.0,no,speed,7,Europe,France,Premier,consumer,< 5000,True,False,False,Sean,Gray,sean13@adventure-works.com,Low
+10042324,20.0,yes,features,2,Europe,UK,Premier,consumer,> 50000,True,False,False,Sophia,Baker,sophia15@adventure-works.com,Low
+10033137,6.0,yes,security,0,Europe,UK,Premier,administrator,5000 - 50000,True,True,False,Alan,Gao,alan18@adventure-works.com,High
+10000780,14.0,yes,speed,1,Europe,France,Premier,publisher,5000 - 50000,True,False,True,Jessica,Alexander,jessica43@adventure-works.com,High
+10041440,2.0,no,price,6,Europe,UK,Basic,consumer,> 50000,False,False,True,Jennifer,Torres,jennifer67@adventure-works.com,Low
+10001229,19.0,yes,services,1,Europe,UK,Premier,publisher,5000 - 50000,True,False,False,Kari,Gomez,kari22@adventure-works.com,High
+10043359,41.0,no,security,9,Europe,UK,Premier,administrator,5000 - 50000,True,False,False,Angela,Bennett,angela3@adventure-works.com,Low
+10042421,4.0,yes,price,8,Europe,Germany,Premier,consumer,5000 - 50000,True,False,False,Mayra,Chandra,mayra1@adventure-works.com,Low
+10008603,23.0,yes,features,3,Europe,UK,Premier,publisher,< 5000,True,True,False,Tabitha,Hernandez,tabitha23@adventure-works.com,High
+10000758,9.0,yes,reliability,2,Europe,UK,Premier,publisher,5000 - 50000,True,False,True,Colin,Yuan,colin30@adventure-works.com,High
+10043287,10.0,no,features,5,Europe,France,Premier,consumer,< 5000,True,False,True,Brianna,Johnson,brianna1@adventure-works.com,Low
+10043151,18.0,no,speed,5,Europe,Germany,Premier,consumer,5000 - 50000,True,False,False,Shane,Sanchez,shane23@adventure-works.com,Low
+10017453,17.0,no,speed,1,Europe,UK,Premier,consumer,< 5000,True,True,False,Valerie,Lin,valerie9@adventure-works.com,High
+10043350,37.0,no,reliability,4,Europe,UK,Premier,consumer,< 5000,True,True,True,Blake,Allen,blake25@adventure-works.com,Low
+10039291,25.0,yes,features,7,Europe,France,Premier,consumer,5000 - 50000,True,True,True,Adam,Adams,adam46@adventure-works.com,High
+10041614,7.0,yes,price,7,Europe,Germany,Premier,consumer,< 5000,True,True,False,Emma,Kelly,emma46@adventure-works.com,Low
+10042566,23.0,yes,price,8,Europe,Germany,Premier,consumer,5000 - 50000,False,False,True,Kate,Rai,kate14@adventure-works.com,Low
+10041700,23.0,no,features,5,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Sandra,Zhu,sandra21@adventure-works.com,Low
+10011918,19.0,no,services,3,Europe,Germany,Premier,publisher,5000 - 50000,True,False,True,Calvin,Jai,calvin11@adventure-works.com,High
+10016151,22.0,yes,reliability,3,Europe,UK,Premier,consumer,> 50000,True,False,False,Carrie,Moreno,carrie6@adventure-works.com,High
+10032512,43.0,yes,usability,3,Europe,France,Premier,consumer,< 5000,True,True,True,Brenda,Gonzalez,brenda22@adventure-works.com,High
+10032694,17.0,yes,features,0,Europe,Spain,Basic,administrator,5000 - 50000,True,False,False,Kathryn,Xu,kathryn4@adventure-works.com,High
+10040851,26.0,no,features,6,Europe,UK,Premier,consumer,> 50000,True,False,False,Gabrielle,Barnes,gabrielle25@adventure-works.com,Low
+10019952,10.0,no,reliability,0,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Wayne,Nath,wayne21@adventure-works.com,High
+10009338,46.0,no,speed,2,Europe,Germany,Premier,publisher,5000 - 50000,True,True,True,Anna,James,anna21@adventure-works.com,High
+10014508,17.0,yes,speed,3,Europe,France,Premier,consumer,< 5000,True,False,False,Melissa,Cook,melissa43@adventure-works.com,High
+10041788,22.0,no,usability,6,Europe,UK,Premier,consumer,< 5000,False,False,True,Chase,Ward,chase12@adventure-works.com,Low
+10036324,13.0,yes,reliability,7,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Valerie,Harrison,valerie20@adventure-works.com,High
+10041028,23.0,no,features,6,Europe,France,Premier,consumer,5000 - 50000,True,True,True,Max,Vazquez,max14@adventure-works.com,Low
+10036505,10.0,yes,navigation,1,Europe,UK,Premier,consumer,< 5000,True,False,False,William,Clark,william14@adventure-works.com,High
+10027135,17.0,no,reliability,1,Europe,France,Premier,consumer,< 5000,True,False,False,Jarrod,Perez,jarrod20@adventure-works.com,High
+10008197,18.0,yes,security,0,Europe,UK,Premier,publisher,5000 - 50000,True,True,False,Briana,Sandoval,briana17@adventure-works.com,High
+10043638,4.0,no,features,9,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Gabrielle,Alexander,gabrielle41@adventure-works.com,Low
+10043010,16.0,no,services,1,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Tyler,Jackson,tyler0@adventure-works.com,Low
+10041112,18.0,yes,speed,5,Europe,France,Premier,administrator,< 5000,True,False,False,Deanna,Serrano,deanna43@adventure-works.com,Low
+10040160,12.0,yes,reliability,1,Europe,UK,Premier,publisher,> 50000,True,False,False,Ronald,Kapoor,ronald3@adventure-works.com,Low
+10041565,60.0,no,security,1,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Terry,Raji,terry23@adventure-works.com,Low
+10011604,16.0,no,features,1,Europe,France,Premier,publisher,5000 - 50000,True,True,True,Wyatt,Simmons,wyatt65@adventure-works.com,High
+10042930,18.0,no,usability,7,Europe,UK,Premier,consumer,< 5000,True,True,False,Zachary,Coleman,zachary4@adventure-works.com,Low
+10044513,28.0,no,price,6,Europe,France,Premier,consumer,< 5000,False,False,True,Ian,Clark,ian17@adventure-works.com,Low
+10044830,22.0,yes,price,9,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Luke,Zhang,luke13@adventure-works.com,Low
+10021569,1.0,no,governance,0,Europe,Spain,Premier,consumer,5000 - 50000,True,False,False,Nathan,Garcia,nathan74@adventure-works.com,High
+10041376,8.0,yes,reliability,9,Europe,UK,Premier,consumer,< 5000,False,True,False,Olivia,Thompson,olivia14@adventure-works.com,Low
+10030492,2.0,yes,price,0,Europe,Germany,Premier,consumer,> 50000,True,False,True,Sheena,She,sheena0@adventure-works.com,High
+10041387,,no,features,6,Europe,France,Premier,consumer,< 5000,True,False,True,Carlos,Baker,carlos35@adventure-works.com,Low
+10041411,23.0,no,speed,7,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Francisco,Patel,francisco4@adventure-works.com,Low
+10041868,19.0,yes,features,9,Europe,UK,Premier,consumer,5000 - 50000,True,True,True,Wyatt,Roberts,wyatt42@adventure-works.com,Low
+10040626,29.0,yes,speed,7,Europe,UK,Premier,consumer,> 50000,False,True,False,Chloe,Green,chloe12@adventure-works.com,Low
+10013461,20.0,no,features,6,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Ruth,Sai,ruth10@adventure-works.com,High
+10040465,28.0,no,reliability,6,Europe,UK,Premier,consumer,> 50000,False,False,True,Allison,Scott,allison36@adventure-works.com,Low
+10042766,,no,features,7,Europe,UK,Premier,consumer,5000 - 50000,False,False,True,Latasha,Martin,latasha0@adventure-works.com,Low
+10043193,19.0,yes,speed,7,Europe,France,Premier,consumer,5000 - 50000,True,False,True,Lawrence,Dominguez,lawrence11@adventure-works.com,Low
+10023265,26.0,yes,speed,3,Europe,France,Premier,administrator,5000 - 50000,True,True,False,Blake,Evans,blake45@adventure-works.com,High
+10041605,2.0,no,speed,2,Europe,France,Premier,consumer,< 5000,True,False,False,Russell,Sharma,russell12@adventure-works.com,Low
+10039447,12.0,no,speed,2,Europe,France,Premier,consumer,5000 - 50000,True,True,False,Katelyn,Rogers,katelyn19@adventure-works.com,High
+10039939,25.0,yes,services,6,Europe,Germany,Basic,publisher,> 50000,True,False,False,Bianca,Zhao,bianca8@adventure-works.com,Low
+10042070,57.0,no,other,8,Europe,Germany,Premier,consumer,5000 - 50000,True,False,False,Marcus,Alexander,marcus68@adventure-works.com,Low
+10031283,16.0,yes,price,0,Europe,UK,Basic,consumer,5000 - 50000,True,False,False,Carolyn,Chandra,carolyn3@adventure-works.com,High
+10043750,28.0,no,features,3,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Casey,Shan,casey11@adventure-works.com,Low
+10001993,0.0,yes,features,0,Europe,UK,Premier,publisher,5000 - 50000,True,True,False,Xavier,Henderson,xavier46@adventure-works.com,High
+10041554,59.0,no,security,8,Europe,UK,Premier,administrator,5000 - 50000,True,True,False,Victor,Blanco,victor16@adventure-works.com,Low
+10043221,14.0,yes,features,7,Europe,UK,Premier,consumer,< 5000,True,False,True,Roy,Suri,roy0@adventure-works.com,Low
+10016843,12.0,yes,security,2,Europe,Germany,Premier,consumer,5000 - 50000,True,False,True,Gerald,Navarro,gerald18@adventure-works.com,High
+10044611,20.0,no,speed,7,Europe,France,Premier,consumer,< 5000,True,False,True,Joshua,Thomas,joshua12@adventure-works.com,Low
+10016349,6.0,yes,reliability,2,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Sheila,Diaz,sheila3@adventure-works.com,High
+10042380,26.0,yes,services,5,Europe,UK,Premier,consumer,> 50000,True,False,True,Leah,Liang,leah13@adventure-works.com,Low
+10035714,23.0,yes,price,1,Europe,Germany,Premier,consumer,5000 - 50000,True,False,False,Stephanie,Morgan,stephanie9@adventure-works.com,High
+10001447,23.0,yes,features,0,Europe,UK,Premier,publisher,5000 - 50000,True,False,False,Carson,Hayes,carson22@adventure-works.com,High
+10022438,9.0,no,speed,2,Europe,France,Basic,consumer,5000 - 50000,True,False,False,Denise,Perez,denise22@adventure-works.com,High
+10041055,11.0,no,speed,9,Europe,France,Premier,administrator,5000 - 50000,True,False,False,Robin,Sanz,robin15@adventure-works.com,Low
+10042982,1.0,yes,speed,3,Europe,France,Premier,consumer,< 5000,True,True,True,Michael,Harris,michael45@adventure-works.com,Low
+10033824,5.0,yes,price,1,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Melissa,Morris,melissa41@adventure-works.com,High
+10035211,27.0,yes,services,8,Europe,UK,Premier,consumer,< 5000,True,True,False,Chloe,Hill,chloe20@adventure-works.com,High
+10044474,2.0,no,speed,3,Europe,France,Premier,consumer,< 5000,True,False,False,Evan,Bradley,evan15@adventure-works.com,Low
+10009857,24.0,no,security,2,Europe,Germany,Premier,publisher,5000 - 50000,True,False,False,Jerry,Becker,jerry21@adventure-works.com,High
+10040757,20.0,no,other,9,Europe,France,Premier,consumer,< 5000,True,False,True,Rosa,Zhang,rosa0@adventure-works.com,Low
+10044503,8.0,no,navigation,5,Europe,France,Premier,consumer,< 5000,True,False,False,Donald,Kapoor,donald3@adventure-works.com,Low
+10014172,13.0,no,price,1,Europe,Germany,Premier,administrator,5000 - 50000,True,False,False,Evan,Gray,evan6@adventure-works.com,High
+10019686,17.0,no,speed,2,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Xavier,Ross,xavier45@adventure-works.com,High
+10041024,26.0,no,security,6,Europe,France,Premier,consumer,5000 - 50000,True,True,True,Jaime,Suarez,jaime21@adventure-works.com,Low
+10042745,9.0,no,services,5,Europe,UK,Premier,consumer,> 50000,True,False,False,Cameron,Simmons,cameron10@adventure-works.com,Low
+10039962,11.0,yes,price,3,Europe,UK,Premier,publisher,5000 - 50000,True,True,True,Isaac,Cook,isaac21@adventure-works.com,Low
+10013524,16.0,no,reliability,0,Europe,UK,Basic,administrator,< 5000,True,True,False,Megan,Lewis,megan24@adventure-works.com,High
+10044964,1.0,no,speed,9,Europe,Spain,Premier,publisher,5000 - 50000,True,False,False,Katherine,Turner,katherine53@adventure-works.com,Low
+10031482,26.0,yes,price,4,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Arturo,Raji,arturo45@adventure-works.com,High
+10042811,43.0,no,usability,3,Europe,France,Premier,consumer,< 5000,True,True,False,Jimmy,Ramos,jimmy21@adventure-works.com,Low
+10023600,2.0,yes,speed,3,Europe,France,Premier,consumer,5000 - 50000,True,True,True,Begoña,Hurtado,begoña0@adventure-works.com,High
+10041095,16.0,yes,features,2,Europe,UK,Premier,publisher,> 50000,True,True,True,Wesley,Yang,wesley5@adventure-works.com,Low
+10001994,25.0,yes,features,3,Europe,Spain,Premier,publisher,5000 - 50000,True,False,True,Anna,Martinez,anna55@adventure-works.com,High
+10032820,16.0,yes,features,4,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Chase,Cook,chase22@adventure-works.com,High
+10041187,3.0,yes,features,7,Europe,France,Premier,consumer,< 5000,True,False,False,Clayton,Chen,clayton2@adventure-works.com,Low
+10041784,,no,reliability,5,Europe,UK,Premier,consumer,5000 - 50000,True,True,True,Victoria,Miller,victoria7@adventure-works.com,Low
+10040788,17.0,no,features,9,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Drew,Bhat,drew21@adventure-works.com,Low
+10022157,20.0,no,other,4,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Willie,Rai,willie37@adventure-works.com,High
+10039501,1.0,yes,speed,2,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Eduardo,Butler,eduardo58@adventure-works.com,High
+10029449,60.0,yes,security,7,Europe,France,Premier,consumer,5000 - 50000,True,False,True,Bethany,Raheem,bethany21@adventure-works.com,High
+10032426,3.0,yes,services,4,Europe,UK,Basic,consumer,5000 - 50000,True,False,False,Steven,James,steven9@adventure-works.com,High
+10024705,27.0,no,speed,7,Europe,France,Premier,consumer,< 5000,True,False,False,Ricky,Navarro,ricky10@adventure-works.com,High
+10019061,27.0,no,speed,4,Europe,France,Premier,consumer,5000 - 50000,True,True,False,Janet,Serrano,janet22@adventure-works.com,High
+10032169,41.0,yes,price,6,Europe,UK,Premier,consumer,< 5000,True,False,False,Jordan,Kumar,jordan24@adventure-works.com,High
+10044495,53.0,no,security,9,Europe,Germany,Premier,consumer,5000 - 50000,True,True,False,Jonathan,Baker,jonathan45@adventure-works.com,Low
+10026381,2.0,no,price,0,Europe,Germany,Premier,consumer,5000 - 50000,True,False,False,Russell,Black,russell23@adventure-works.com,High
+10043622,1.0,no,speed,6,Europe,France,Premier,consumer,5000 - 50000,True,True,True,Caroline,Alexander,caroline20@adventure-works.com,Low
+10032191,1.0,yes,speed,0,Europe,France,Premier,consumer,< 5000,True,False,True,Shaun,Pal,shaun13@adventure-works.com,High
+10038922,24.0,no,speed,1,Europe,France,Premier,administrator,5000 - 50000,True,False,False,Pedro,Diaz,pedro23@adventure-works.com,High
+10043281,14.0,yes,speed,4,Europe,France,Premier,consumer,< 5000,True,False,False,Raquel,Alonso,raquel5@adventure-works.com,Low
+10024347,15.0,yes,navigation,2,Europe,France,Premier,consumer,< 5000,True,False,True,Kaitlyn,Clark,kaitlyn42@adventure-works.com,High
+10041021,18.0,no,speed,8,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Kurt,Andersen,kurt13@adventure-works.com,Low
+10025553,18.0,yes,speed,9,Europe,France,Basic,consumer,5000 - 50000,True,False,False,Elijah,Hill,elijah41@adventure-works.com,High
+10044270,22.0,no,speed,5,Europe,France,Premier,consumer,5000 - 50000,True,True,True,Wayne,Xie,wayne4@adventure-works.com,Low
+10040647,17.0,no,security,5,Europe,UK,Basic,consumer,> 50000,True,True,False,Natasha,Suarez,natasha19@adventure-works.com,Low
+10044987,60.0,no,security,7,Europe,UK,Premier,administrator,5000 - 50000,True,False,True,Jackson,Gonzales,jackson19@adventure-works.com,Low
+10040953,0.0,no,speed,9,Europe,France,Premier,consumer,< 5000,True,False,False,Jaclyn,Zhu,jaclyn15@adventure-works.com,Low
+10016411,15.0,no,reliability,1,Europe,UK,Premier,consumer,< 5000,True,True,False,Mason,Bendixen,mason1@adventure-works.com,High
+10023727,1.0,no,speed,6,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Maria,James,maria18@adventure-works.com,High
+10043704,41.0,no,security,5,Europe,Germany,Premier,consumer,5000 - 50000,True,False,True,Kristine,Vazquez,kristine15@adventure-works.com,Low
+10023260,10.0,yes,navigation,1,Europe,UK,Basic,consumer,5000 - 50000,True,True,True,Jesse,Mitchell,jesse36@adventure-works.com,High
+10030968,2.0,yes,price,0,Europe,UK,Basic,consumer,5000 - 50000,True,True,True,Jenna,Allen,jenna22@adventure-works.com,High
+10044404,11.0,no,services,9,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Richard,Johnson,richard41@adventure-works.com,Low
+10044094,12.0,no,speed,7,Europe,France,Premier,publisher,< 5000,True,False,True,Larry,Ortega,larry24@adventure-works.com,Low
+10041265,11.0,no,speed,5,Europe,France,Premier,consumer,< 5000,False,False,True,Nicole,Bryant,nicole67@adventure-works.com,Low
+10041776,45.0,no,security,8,Europe,UK,Premier,administrator,5000 - 50000,True,False,True,Natasha,Blanco,natasha15@adventure-works.com,Low
+10008537,4.0,yes,price,1,Europe,UK,Premier,publisher,5000 - 50000,True,True,False,Michelle,Brooks,michelle3@adventure-works.com,High
+10020065,15.0,no,price,0,Europe,Spain,Premier,consumer,5000 - 50000,True,False,False,Kristina,Fernandez,kristina16@adventure-works.com,High
+10044756,9.0,no,reliability,5,Europe,UK,Premier,consumer,5000 - 50000,True,True,True,Madison,Thompson,madison16@adventure-works.com,Low
+10021884,9.0,no,speed,0,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Brandon,Brown,brandon42@adventure-works.com,High
+10016439,26.0,yes,price,0,Europe,Germany,Premier,consumer,5000 - 50000,True,True,True,Chase,Ramirez,chase7@adventure-works.com,High
+10025625,8.0,yes,price,2,Europe,Germany,Premier,consumer,< 5000,True,False,True,Deanna,Chandra,deanna5@adventure-works.com,High
+10041513,45.0,no,security,9,Europe,France,Premier,consumer,5000 - 50000,True,True,False,Jennifer,Rivera,jennifer62@adventure-works.com,Low
+10041875,10.0,no,speed,8,Europe,Germany,Premier,consumer,5000 - 50000,False,False,True,Steven,Bailey,steven25@adventure-works.com,Low
+10044902,7.0,yes,price,8,Europe,UK,Premier,consumer,5000 - 50000,True,True,True,Jeremiah,Moore,jeremiah1@adventure-works.com,Low
+10042757,19.0,no,navigation,9,Europe,UK,Premier,consumer,> 50000,True,False,False,Jennifer,Harris,jennifer42@adventure-works.com,Low
+10008701,27.0,no,governance,1,Europe,Spain,Premier,publisher,5000 - 50000,True,False,False,Arianna,Wood,arianna2@adventure-works.com,High
+10044957,31.0,no,usability,9,Europe,UK,Premier,consumer,< 5000,True,True,True,Cindy,Suri,cindy1@adventure-works.com,Low
+10031192,31.0,yes,price,2,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Victoria,Coleman,victoria53@adventure-works.com,High
+10042912,6.0,no,services,9,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Alejandro,Raji,alejandro46@adventure-works.com,Low
+10032055,14.0,yes,price,6,Europe,Germany,Premier,consumer,5000 - 50000,True,False,False,Roberto,Navarro,roberto10@adventure-works.com,High
+10009561,2.0,no,speed,2,Europe,UK,Premier,publisher,5000 - 50000,True,False,False,Willie,Liu,willie4@adventure-works.com,High
+10044742,42.0,no,usability,3,Europe,UK,Premier,consumer,< 5000,False,False,True,Justin,Flores,justin9@adventure-works.com,Low
+10040225,19.0,yes,security,6,Europe,Germany,Premier,publisher,> 50000,True,False,False,James,Carter,james60@adventure-works.com,Low
+10009072,18.0,no,design,9,Europe,Germany,Premier,publisher,5000 - 50000,True,False,False,Kaitlyn,Martinez,kaitlyn40@adventure-works.com,High
+10038069,5.0,no,reliability,1,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Logan,Patterson,logan13@adventure-works.com,High
+10041766,0.0,no,features,2,Europe,France,Premier,consumer,< 5000,True,False,False,Anne,Munoz,anne8@adventure-works.com,Low
+10034317,14.0,yes,price,3,Europe,UK,Premier,consumer,< 5000,True,False,False,Kelvin,Rai,kelvin14@adventure-works.com,High
+10043848,30.0,no,features,6,Europe,France,Premier,consumer,5000 - 50000,True,False,False,Sydney,Hall,sydney87@adventure-works.com,Low
+10001247,24.0,yes,speed,2,Europe,France,Premier,publisher,5000 - 50000,True,False,False,Brandy,Raman,brandy8@adventure-works.com,High
+10013887,26.0,yes,features,0,Europe,UK,Basic,consumer,5000 - 50000,True,True,False,Micah,Sun,micah0@adventure-works.com,High
+10043447,40.0,yes,price,4,Europe,UK,Premier,consumer,< 5000,True,False,False,Kristine,Ramos,kristine18@adventure-works.com,Low
+10043112,40.0,no,usability,0,Europe,France,Premier,consumer,< 5000,True,False,False,Luis,Griffin,luis20@adventure-works.com,Low
+10026287,1.0,no,speed,6,Europe,France,Premier,consumer,< 5000,True,False,False,Cedric,Zheng,cedric19@adventure-works.com,High
+10044994,46.0,no,usability,8,Europe,UK,Premier,consumer,< 5000,False,False,True,Logan,Hayes,logan23@adventure-works.com,Low
+10043133,11.0,yes,support,9,Europe,France,Premier,consumer,> 50000,True,False,False,Isaac,Gonzalez,isaac30@adventure-works.com,Low
+10019576,29.0,yes,speed,1,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Austin,White,austin48@adventure-works.com,High
+10043036,9.0,no,price,9,Europe,Germany,Premier,consumer,> 50000,True,False,False,Thomas,Smith,thomas60@adventure-works.com,Low
+10041053,8.0,no,features,8,Europe,UK,Basic,administrator,> 50000,False,False,True,Kristin,Jai,kristin12@adventure-works.com,Low
+10000523,25.0,yes,price,2,Europe,UK,Premier,publisher,> 50000,True,True,True,Lucas,Taylor,lucas22@adventure-works.com,High
+10043009,27.0,no,speed,9,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Connor,Perry,connor4@adventure-works.com,Low
+10040215,28.0,yes,speed,6,Europe,France,Premier,publisher,< 5000,True,False,False,Hunter,Allen,hunter57@adventure-works.com,Low
+10000307,2.0,yes,services,7,Europe,UK,Basic,publisher,> 50000,True,False,True,Hunter,Rodriguez,hunter53@adventure-works.com,High
+10009056,,yes,price,1,Europe,UK,Premier,publisher,< 5000,True,True,False,Johnny,She,johnny1@adventure-works.com,High
+10040072,4.0,yes,price,6,Europe,Germany,Premier,publisher,5000 - 50000,True,False,False,Sydney,James,sydney18@adventure-works.com,Low
+10042477,28.0,yes,features,9,Europe,UK,Premier,consumer,< 5000,True,False,False,Veronica,Sai,veronica6@adventure-works.com,Low
+10044763,23.0,yes,features,9,Europe,UK,Premier,consumer,5000 - 50000,True,False,False,Nathan,Alexander,nathan15@adventure-works.com,Low
+10006132,3.0,yes,price,1,Europe,UK,Basic,publisher,< 5000,True,False,False,Isabella,James,isabella6@adventure-works.com,High
+10029760,19.0,yes,reliability,2,Europe,Germany,Premier,consumer,5000 - 50000,True,True,False,Gabriella,Gray,gabriella3@adventure-works.com,High
+10043711,56.0,no,security,6,Europe,UK,Premier,consumer,5000 - 50000,True,False,True,Gerald,Gomez,gerald9@adventure-works.com,Low
+10044462,6.0,yes,reliability,6,Europe,UK,Premier,consumer,5000 - 50000,True,True,True,Marcus,Young,marcus27@adventure-works.com,Low
+10043404,10.0,yes,speed,7,Europe,France,Premier,consumer,< 5000,True,True,False,Evan,Ramirez,evan7@adventure-works.com,Low
+10042201,34.0,no,usability,6,Europe,France,Premier,consumer,< 5000,True,True,True,Rebecca,King,rebecca20@adventure-works.com,Low
